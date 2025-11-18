@@ -1,0 +1,15 @@
+pandas
+numpy
+tabula-py
+camelot-py[base]
+PyPDF2
+ydata-profiling
+streamlit
+plotly
+geopandas
+folium
+contextily
+openpyxl
+requests
+psycopg2-binary
+python-dotenv
